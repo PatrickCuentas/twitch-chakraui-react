@@ -1,0 +1,402 @@
+[
+  {
+    "game": {
+      "name": "Minecraft",
+      "video": "https://i.gifer.com/82yu.gif",
+      "image": "https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg",
+      "viewers": 42.9,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg"
+    },
+    "viewers": 107,
+    "tags": ["Español", "Chino"],
+    "length": 1058,
+    "streamer": {
+      "name": "BillGates",
+      "avatar": "https://laverdadnoticias.com/export/sites/laverdad/img/2021/04/21/bill_gates.jpg_2064564707.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 237,
+      "id": "1fbd1a72-992b-5386-a586-cdda46e54b81",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Just Chatting",
+      "video": "http://i.imgur.com/4zR44yv.gif",
+      "image": "https://i.pinimg.com/originals/b5/2c/19/b52c19dbff889a43adbb2f24f2cf8d0a.jpg",
+      "viewers": 7.5,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg"
+    },
+    "viewers": 499,
+    "tags": ["Inglés", "Portugués"],
+    "length": 730,
+    "streamer": {
+      "name": "SteveJobs",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijkzWWcAPqtTMIdFL3GhkVAXKSsBSQeeXng&usqp=CAU",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 281,
+      "id": "5339e042-9b11-53c3-b791-219e88d52162",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Fortnite",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2375f5833eada6f7c545e3eed16ec9bd2aefd8fce85647ab616f5025a551ecc9._SX1080_.png",
+      "video": "https://i.pinimg.com/originals/c0/43/d7/c043d7f1fb1835a9d30444f27f70c71b.gif",
+      "viewers": 6.8,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg"
+    },
+    "viewers": 60,
+    "tags": ["Español", "Chino"],
+    "length": 1265,
+    "streamer": {
+      "name": "JeffBezos",
+      "avatar": "http://cdn2.dineroenimagen.com/media/dinero/jeff-bezos.jpeg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 445,
+      "id": "53403def-0084-507e-b8f3-981046f3a7e1",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "Roblox",
+      "video": "https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/a/d/b/adbc3bb0e8df4ca65d464d82d1e5f6c9afb9251d.gif",
+      "image": "https://www.mybasis.com/wp-content/uploads/2019/12/roblox-decal-ids-768x432.png",
+      "viewers": 35.9,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-144x192.jpg"
+    },
+    "viewers": 138,
+    "tags": ["Español", "Chino"],
+    "length": 845,
+    "streamer": {
+      "name": "ElonMusk",
+      "avatar": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9jcmVhdG9yLWltYWdlcy5wb2RjaGFzZXIuY29tL2RmODZjM2RjZTg5ZDI2ZGQzZWI5NWU4YzI1MDBhMTIyLmpwZWc%3D/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 339,
+      "id": "33efe8cd-e8be-5ddf-9053-8c2e83035a58",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "Elden Ring",
+      "video": "https://i.imgur.com/L1WLUHR.gif",
+      "image": "https://media.vandal.net/i/640x360/2-2022/20222221932696_1.jpg",
+      "viewers": 56.7,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg"
+    },
+    "viewers": 31,
+    "tags": ["Español", "Chino"],
+    "length": 964,
+    "streamer": {
+      "name": "MarkZuckerberg",
+      "avatar": "https://pbs.twimg.com/profile_images/730271326150103042/gR9RVbmC_400x400.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 101,
+      "id": "1b286233-e96f-563c-b44c-7803bb4dc16c",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "Roblox",
+      "video": "https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/a/d/b/adbc3bb0e8df4ca65d464d82d1e5f6c9afb9251d.gif",
+      "image": "https://www.mybasis.com/wp-content/uploads/2019/12/roblox-decal-ids-768x432.png",
+      "viewers": 10.1,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-144x192.jpg"
+    },
+    "viewers": 249,
+    "tags": ["Español", "Chino"],
+    "length": 887,
+    "streamer": {
+      "name": "Joshua",
+      "avatar": "https://picsum.photos/seed/GE4cPvUBCQvTpV987xRh/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 169,
+      "id": "42f3ed37-704c-5857-848f-d87d5cf690c0",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Minecraft",
+      "video": "https://i.gifer.com/82yu.gif",
+      "image": "https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg",
+      "viewers": 49.9,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg"
+    },
+    "viewers": 277,
+    "tags": ["Español", "Chino"],
+    "length": 847,
+    "streamer": {
+      "name": "Darrell",
+      "avatar": "https://picsum.photos/seed/qZTRyZHc5lb4hV/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 268,
+      "id": "de347d11-0b02-54a9-9863-83bb1384bbbf",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "CS:GO",
+      "video": "https://i.gifer.com/6XtJ.gif",
+      "image": "https://www.esportmaniacos.com/wp-content/uploads/2021/06/CSGO-1-780x470.jpg",
+      "viewers": 42.5,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-188x250.jpg"
+    },
+    "viewers": 14,
+    "tags": ["Español", "Chino"],
+    "length": 999,
+    "streamer": {
+      "name": "Alice",
+      "avatar": "https://picsum.photos/seed/aHnjMnVjCV58p6/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 253,
+      "id": "3308d3ff-81c4-5f4e-adc3-f9c8ac12635e",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Elden Ring",
+      "video": "https://i.imgur.com/L1WLUHR.gif",
+      "image": "https://media.vandal.net/i/640x360/2-2022/20222221932696_1.jpg",
+      "viewers": 18.5,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg"
+    },
+    "viewers": 218,
+    "tags": ["Español", "Chino"],
+    "length": 1328,
+    "streamer": {
+      "name": "Emma",
+      "avatar": "https://picsum.photos/seed/iofpFscw/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 425,
+      "id": "5d183225-652a-550e-9b71-41f480376690",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "GTA V",
+      "video": "https://i.pinimg.com/originals/c0/43/d7/c043d7f1fb1835a9d30444f27f70c71b.gif",
+      "image": "https://compass-ssl.xbox.com/assets/a0/4f/a04f2744-74d9-4668-8263-e0261fbea869.jpg?n=GTA-V_GLP-Page-Hero-1084_1920x1080.jpg",
+      "viewers": 37.1,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg"
+    },
+    "viewers": 233,
+    "tags": ["Español", "Chino"],
+    "length": 966,
+    "streamer": {
+      "name": "Mina",
+      "avatar": "https://picsum.photos/seed/IDKMjY6D4D/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 66,
+      "id": "36fd16a5-6f95-5ea7-be59-5afc5fc0e178",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Roblox",
+      "video": "https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/a/d/b/adbc3bb0e8df4ca65d464d82d1e5f6c9afb9251d.gif",
+      "image": "https://www.mybasis.com/wp-content/uploads/2019/12/roblox-decal-ids-768x432.png",
+      "viewers": 68.2,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-144x192.jpg"
+    },
+    "viewers": 214,
+    "tags": ["Español", "Chino"],
+    "length": 1246,
+    "streamer": {
+      "name": "Gordon",
+      "avatar": "https://picsum.photos/seed/tBTWTccpfvivtbIqnr/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 435,
+      "id": "9ebf50a1-ead2-50e9-8e93-389f89403e59",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Mario Kart",
+      "video": "https://i.gifer.com/1dCb.gif",
+      "image": "https://img.youtube.com/vi/1V6XecP27wE/maxresdefault.jpg",
+      "viewers": 61.6,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/18871_IGDB-144x192.jpg"
+    },
+    "viewers": 389,
+    "tags": ["Español", "Chino"],
+    "length": 1428,
+    "streamer": {
+      "name": "Timothy",
+      "avatar": "https://picsum.photos/seed/iHStWG61P/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 75,
+      "id": "c7896d16-51d0-5d1a-834c-ff3e01bef990",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "CS:GO",
+      "video": "https://i.gifer.com/6XtJ.gif",
+      "image": "https://www.esportmaniacos.com/wp-content/uploads/2021/06/CSGO-1-780x470.jpg",
+      "viewers": 36.1,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-188x250.jpg"
+    },
+    "viewers": 249,
+    "tags": ["Español", "Chino"],
+    "length": 885,
+    "streamer": {
+      "name": "Jon",
+      "avatar": "https://picsum.photos/seed/qcj60CzZdja2/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 255,
+      "id": "656936ad-6d91-5c25-8bc5-c659e4653177",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "CS:GO",
+      "video": "https://i.gifer.com/6XtJ.gif",
+      "image": "https://www.esportmaniacos.com/wp-content/uploads/2021/06/CSGO-1-780x470.jpg",
+      "viewers": 62.5,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-188x250.jpg"
+    },
+    "viewers": 346,
+    "tags": ["Español", "Chino"],
+    "length": 1169,
+    "streamer": {
+      "name": "Hallie",
+      "avatar": "https://picsum.photos/seed/pvfIi/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 65,
+      "id": "641149f3-18b0-572a-9dd4-383501d50bbc",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "Minecraft",
+      "video": "https://i.gifer.com/82yu.gif",
+      "image": "https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg",
+      "viewers": 1.8,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg"
+    },
+    "viewers": 249,
+    "tags": ["Español", "Chino"],
+    "length": 983,
+    "streamer": {
+      "name": "Bertie",
+      "avatar": "https://picsum.photos/seed/wFdiiMxkVbDaj/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 239,
+      "id": "3769520f-c1ab-5ea7-82ff-a1f275a40ef2",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Elden Ring",
+      "video": "https://i.imgur.com/L1WLUHR.gif",
+      "image": "https://media.vandal.net/i/640x360/2-2022/20222221932696_1.jpg",
+      "viewers": 10.4,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg"
+    },
+    "viewers": 110,
+    "tags": ["Español", "Chino"],
+    "length": 763,
+    "streamer": {
+      "name": "Etta",
+      "avatar": "https://picsum.photos/seed/3nohG/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 256,
+      "id": "b3a1fea5-096b-5a67-a70a-2642f8d7b919",
+      "partner": false
+    }
+  },
+  {
+    "game": {
+      "name": "Just Chatting",
+      "video": "http://i.imgur.com/4zR44yv.gif",
+      "image": "https://i.pinimg.com/originals/b5/2c/19/b52c19dbff889a43adbb2f24f2cf8d0a.jpg",
+      "viewers": 54.3,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg"
+    },
+    "viewers": 424,
+    "tags": ["Español", "Chino"],
+    "length": 1343,
+    "streamer": {
+      "name": "Bertie",
+      "avatar": "https://picsum.photos/seed/gSyFmE9dgh51tEJvM/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 317,
+      "id": "8276bb34-824a-50fe-b220-bcedfb47c597",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "GTA V",
+      "video": "https://i.pinimg.com/originals/c0/43/d7/c043d7f1fb1835a9d30444f27f70c71b.gif",
+      "image": "https://compass-ssl.xbox.com/assets/a0/4f/a04f2744-74d9-4668-8263-e0261fbea869.jpg?n=GTA-V_GLP-Page-Hero-1084_1920x1080.jpg",
+      "viewers": 32.2,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg"
+    },
+    "viewers": 397,
+    "tags": ["Español", "Chino"],
+    "length": 901,
+    "streamer": {
+      "name": "Kate",
+      "avatar": "https://picsum.photos/seed/xU15wFVP4nSaVtxUZd/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 49,
+      "id": "0a593f82-b4ff-55f7-9037-b007a87fbf8d",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Minecraft",
+      "video": "https://i.gifer.com/82yu.gif",
+      "image": "https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg",
+      "viewers": 29.3,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg"
+    },
+    "viewers": 374,
+    "tags": ["Español", "Chino"],
+    "length": 1366,
+    "streamer": {
+      "name": "Scott",
+      "avatar": "https://picsum.photos/seed/7yoqmNVHxXtPmzLu/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 323,
+      "id": "af61651e-fece-5d71-b370-f293235b3ac3",
+      "partner": true
+    }
+  },
+  {
+    "game": {
+      "name": "Elden Ring",
+      "video": "https://i.imgur.com/L1WLUHR.gif",
+      "image": "https://media.vandal.net/i/640x360/2-2022/20222221932696_1.jpg",
+      "viewers": 24.3,
+      "cover": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg"
+    },
+    "viewers": 477,
+    "tags": ["Español", "Chino"],
+    "length": 1394,
+    "streamer": {
+      "name": "Nellie",
+      "avatar": "https://picsum.photos/seed/7REPkG1ArXOVK/150/150.jpg",
+      "description": "Consequat occaecat eu sint anim aute nulla incididunt est magna est qui. Magna culpa fugiat occaecat excepteur culpa. Qui magna dolore ipsum proident.",
+      "followers": 187,
+      "id": "e98688bc-13e6-58c6-b5b5-b4d61b59dbf5",
+      "partner": false
+    }
+  }
+]
